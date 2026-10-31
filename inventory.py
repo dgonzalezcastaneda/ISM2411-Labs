@@ -1,3 +1,8 @@
+# what is most supprising to me about list is how the list has a certain order. Numbers go be for letters and special characters go befor numbers, it its very instresting to me.
+# In python, you can use commands to find a certain item in a list, where in excel you would have to look for it manually. In a buisness setting it could be very useful to save time. 
+
+
+
 #inventory.py
 #author: [Diego Gonzalez]
 #Module 10 lab: Inventory list manager
@@ -76,6 +81,8 @@ for amount in sales:
 print("High sales:", high_sales)
 print("Number of high sales:", len(high_sales))
 print("Average of high sales:", sum(high_sales) / len(high_sales))
+
+
 
 
 
