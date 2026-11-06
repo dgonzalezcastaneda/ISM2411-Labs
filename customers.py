@@ -93,3 +93,5 @@ for sale in transactions:
 
 for region in sales_by_region:
     print(f"{region}: ${sales_by_region[region]:.2f}")
+
+
